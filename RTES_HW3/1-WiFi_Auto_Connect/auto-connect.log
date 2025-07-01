@@ -1,0 +1,1804 @@
+[2025-06-07 05:27:53] Checking connection status...
+[2025-06-07 05:27:53] ❌ Not connected. Attempting to connect to Esy...
+[2KDevice 'wlan0' successfully activated with '99c7b296-ffaf-4fa8-8d33-a0964242ae0f'.
+[2025-06-07 05:27:53] ✅ Connected to Esy.
+[2025-06-07 05:27:53] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID                 MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy                  Infra  1     65 Mbit/s   58      ***   WPA2      
+        64:70:02:8F:D1:3A  Ehsan                Infra  5     54 Mbit/s   20      *     WPA1 WPA2 
+        82:C1:79:D3:DD:3C  Esy's Galaxy A54 5G  Infra  6     130 Mbit/s  17      *     WPA2      
+----------------------------------------------------
+[2025-06-07 05:28:01] Checking connection status...
+[2025-06-07 05:28:01] ✅ Already connected to a network.
+[2025-06-07 05:28:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID                 MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy                  Infra  1     65 Mbit/s   56      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan                Infra  5     54 Mbit/s   20      ▂___  WPA1 WPA2 
+        82:C1:79:D3:DD:3C  Esy's Galaxy A54 5G  Infra  6     130 Mbit/s  17      ▂___  WPA2      
+----------------------------------------------------
+[2025-06-07 05:29:01] Checking connection status...
+[2025-06-07 05:29:01] ✅ Already connected to a network.
+[2025-06-07 05:29:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID                 MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy                  Infra  1     65 Mbit/s   50      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan                Infra  5     54 Mbit/s   20      ▂___  WPA1 WPA2 
+        82:C1:79:D3:DD:3C  Esy's Galaxy A54 5G  Infra  6     130 Mbit/s  10      ▂___  WPA2      
+----------------------------------------------------
+[2025-06-07 05:30:01] Checking connection status...
+[2025-06-07 05:30:01] ✅ Already connected to a network.
+[2025-06-07 05:30:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID                 MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy                  Infra  1     65 Mbit/s   37      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan                Infra  5     54 Mbit/s   20      ▂___  WPA1 WPA2 
+        82:C1:79:D3:DD:3C  Esy's Galaxy A54 5G  Infra  6     130 Mbit/s  17      ▂___  WPA2      
+----------------------------------------------------
+[2025-06-07 05:31:01] Checking connection status...
+[2025-06-07 05:31:01] ❌ Not connected. Attempting to connect to Esy...
+[2KDevice 'wlan0' successfully activated with '99c7b296-ffaf-4fa8-8d33-a0964242ae0f'.
+[2025-06-07 05:31:01] ✅ Connected to Esy.
+[2025-06-07 05:31:01] 📡 Available Wi-Fi networks:
+[2025-06-07 05:17:14] Checking connection status...
+[2025-06-07 05:17:14] ❌ Not connected. Attempting to connect to Esy...
+Error: NetworkManager is not running.
+[2025-06-07 05:17:14] ❌ Failed to connect to Esy.
+[2025-06-07 05:17:14] 📡 Available Wi-Fi networks:
+Error: NetworkManager is not running.
+----------------------------------------------------
+[2025-06-07 05:18:01] Checking connection status...
+[2025-06-07 05:18:01] ✅ Already connected to a network.
+[2025-06-07 05:18:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  82      ▂▄▆█  WPA2     
+----------------------------------------------------
+[2025-06-07 05:19:01] Checking connection status...
+[2025-06-07 05:19:01] ✅ Already connected to a network.
+[2025-06-07 05:19:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  82      ▂▄▆█  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:20:01] Checking connection status...
+[2025-06-07 05:20:01] ✅ Already connected to a network.
+[2025-06-07 05:20:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  74      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:21:01] Checking connection status...
+[2025-06-07 05:21:01] ✅ Already connected to a network.
+[2025-06-07 05:21:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:22:01] Checking connection status...
+[2025-06-07 05:22:01] ✅ Already connected to a network.
+[2025-06-07 05:22:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:23:01] Checking connection status...
+[2025-06-07 05:23:01] ✅ Already connected to a network.
+[2025-06-07 05:23:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:24:01] Checking connection status...
+[2025-06-07 05:24:01] ✅ Already connected to a network.
+[2025-06-07 05:24:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:25:01] Checking connection status...
+[2025-06-07 05:25:01] ✅ Already connected to a network.
+[2025-06-07 05:25:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:26:01] Checking connection status...
+[2025-06-07 05:26:01] ✅ Already connected to a network.
+[2025-06-07 05:26:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:27:01] Checking connection status...
+[2025-06-07 05:27:01] ✅ Already connected to a network.
+[2025-06-07 05:27:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:28:01] Checking connection status...
+[2025-06-07 05:28:01] ✅ Already connected to a network.
+[2025-06-07 05:28:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:29:01] Checking connection status...
+[2025-06-07 05:29:01] ✅ Already connected to a network.
+[2025-06-07 05:29:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  72      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  0       ____  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:30:01] Checking connection status...
+[2025-06-07 05:30:01] ✅ Already connected to a network.
+[2025-06-07 05:30:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  0       ____  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:31:01] Checking connection status...
+[2025-06-07 05:31:01] ✅ Already connected to a network.
+[2025-06-07 05:31:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  74      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:32:01] Checking connection status...
+[2025-06-07 05:32:01] ✅ Already connected to a network.
+[2025-06-07 05:32:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:33:01] Checking connection status...
+[2025-06-07 05:33:01] ✅ Already connected to a network.
+[2025-06-07 05:33:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:34:01] Checking connection status...
+[2025-06-07 05:34:01] ✅ Already connected to a network.
+[2025-06-07 05:34:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  65      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:35:01] Checking connection status...
+[2025-06-07 05:35:01] ✅ Already connected to a network.
+[2025-06-07 05:35:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  65      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  10      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:36:01] Checking connection status...
+[2025-06-07 05:36:01] ✅ Already connected to a network.
+[2025-06-07 05:36:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  54      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:37:01] Checking connection status...
+[2025-06-07 05:37:01] ✅ Already connected to a network.
+[2025-06-07 05:37:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  47      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:38:01] Checking connection status...
+[2025-06-07 05:38:01] ✅ Already connected to a network.
+[2025-06-07 05:38:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  84      ▂▄▆█  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:39:01] Checking connection status...
+[2025-06-07 05:39:01] ✅ Already connected to a network.
+[2025-06-07 05:39:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:40:01] Checking connection status...
+[2025-06-07 05:40:01] ✅ Already connected to a network.
+[2025-06-07 05:40:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:41:01] Checking connection status...
+[2025-06-07 05:41:01] ✅ Already connected to a network.
+[2025-06-07 05:41:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:42:01] Checking connection status...
+[2025-06-07 05:42:01] ✅ Already connected to a network.
+[2025-06-07 05:42:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:43:01] Checking connection status...
+[2025-06-07 05:43:01] ✅ Already connected to a network.
+[2025-06-07 05:43:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:44:01] Checking connection status...
+[2025-06-07 05:44:01] ✅ Already connected to a network.
+[2025-06-07 05:44:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  82      ▂▄▆█  WPA2     
+----------------------------------------------------
+[2025-06-07 05:45:01] Checking connection status...
+[2025-06-07 05:45:01] ✅ Already connected to a network.
+[2025-06-07 05:45:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  84      ▂▄▆█  WPA2     
+----------------------------------------------------
+[2025-06-07 05:46:01] Checking connection status...
+[2025-06-07 05:46:01] ✅ Already connected to a network.
+[2025-06-07 05:46:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  85      ▂▄▆█  WPA2     
+----------------------------------------------------
+[2025-06-07 05:47:01] Checking connection status...
+[2025-06-07 05:47:01] ✅ Already connected to a network.
+[2025-06-07 05:47:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  84      ▂▄▆█  WPA2     
+----------------------------------------------------
+[2025-06-07 05:48:01] Checking connection status...
+[2025-06-07 05:48:01] ✅ Already connected to a network.
+[2025-06-07 05:48:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:49:01] Checking connection status...
+[2025-06-07 05:49:01] ✅ Already connected to a network.
+[2025-06-07 05:49:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 05:50:01] Checking connection status...
+[2025-06-07 05:50:01] ✅ Already connected to a network.
+[2025-06-07 05:50:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  85      ▂▄▆█  WPA2     
+----------------------------------------------------
+[2025-06-07 05:51:01] Checking connection status...
+[2025-06-07 05:51:01] ❌ Not connected. Attempting to connect to Esy...
+Error: Connection activation failed: (0) No reason given.
+[2025-06-07 05:51:01] ✅ Connected to Esy.
+[2025-06-07 05:51:01] 📡 Available Wi-Fi networks:
+Error: NetworkManager is not running.
+----------------------------------------------------
+[2025-06-07 05:52:01] Checking connection status...
+[2025-06-07 05:52:01] ❌ Not connected. Attempting to connect to Esy...
+Error: Connection activation failed: (0) No reason given.
+[2025-06-07 05:52:01] ✅ Connected to Esy.
+[2025-06-07 05:52:01] 📡 Available Wi-Fi networks:
+Error: NetworkManager is not running.
+----------------------------------------------------
+[2025-06-07 05:53:01] Checking connection status...
+[2025-06-07 05:53:01] ✅ Already connected to a network.
+[2025-06-07 05:53:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  44      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:54:01] Checking connection status...
+[2025-06-07 05:54:01] ✅ Already connected to a network.
+[2025-06-07 05:54:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  42      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:55:01] Checking connection status...
+[2025-06-07 05:55:01] ❌ Not connected. Attempting to connect to Esy...
+[2KDevice 'wlan0' successfully activated with '99c7b296-ffaf-4fa8-8d33-a0964242ae0f'.
+[2025-06-07 05:55:01] ✅ Connected to Esy.
+[2025-06-07 05:55:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  44      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  14      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:56:01] Checking connection status...
+[2025-06-07 05:56:01] ✅ Already connected to a network.
+[2025-06-07 05:56:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  44      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:57:01] Checking connection status...
+[2025-06-07 05:57:01] ✅ Already connected to a network.
+[2025-06-07 05:57:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  44      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:58:01] Checking connection status...
+[2025-06-07 05:58:01] ✅ Already connected to a network.
+[2025-06-07 05:58:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  40      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:59:01] Checking connection status...
+[2025-06-07 05:59:01] ✅ Already connected to a network.
+[2025-06-07 05:59:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  40      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:00:01] Checking connection status...
+[2025-06-07 06:00:01] ✅ Already connected to a network.
+[2025-06-07 06:00:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  44      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:01:01] Checking connection status...
+[2025-06-07 06:01:01] ✅ Already connected to a network.
+[2025-06-07 06:01:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  43      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:02:01] Checking connection status...
+[2025-06-07 06:02:01] ✅ Already connected to a network.
+[2025-06-07 06:02:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  44      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:03:01] Checking connection status...
+[2025-06-07 06:03:01] ✅ Already connected to a network.
+[2025-06-07 06:03:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  44      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:04:02] Checking connection status...
+[2025-06-07 06:04:02] ✅ Already connected to a network.
+[2025-06-07 06:04:02] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  44      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  14      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:05:01] Checking connection status...
+[2025-06-07 06:05:01] ✅ Already connected to a network.
+[2025-06-07 06:05:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  44      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  14      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:06:01] Checking connection status...
+[2025-06-07 06:06:01] ✅ Already connected to a network.
+[2025-06-07 06:06:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  44      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  14      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:07:01] Checking connection status...
+[2025-06-07 06:07:01] ✅ Already connected to a network.
+[2025-06-07 06:07:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  43      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  14      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:08:01] Checking connection status...
+[2025-06-07 06:08:01] ✅ Already connected to a network.
+[2025-06-07 06:08:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  44      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  14      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:09:01] Checking connection status...
+[2025-06-07 06:09:01] ✅ Already connected to a network.
+[2025-06-07 06:09:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  44      ▂▄__  WPA2     
+----------------------------------------------------
+[2025-06-07 06:10:01] Checking connection status...
+[2025-06-07 06:10:01] ✅ Already connected to a network.
+[2025-06-07 06:10:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  44      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  0       ____  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:17:15] Checking connection status...
+[2025-06-07 05:17:15] ❌ Not connected. Attempting to connect to Esy...
+Error: NetworkManager is not running.
+[2025-06-07 05:17:15] ❌ Failed to connect to Esy.
+[2025-06-07 05:17:15] 📡 Available Wi-Fi networks:
+Error: NetworkManager is not running.
+----------------------------------------------------
+[2025-06-07 05:18:01] Checking connection status...
+[2025-06-07 05:18:01] ✅ Already connected to a network.
+[2025-06-07 05:18:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID     MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy      Infra  1     65 Mbit/s   75      ▂▄▆_  WPA2      
+        06:D6:AA:D7:FF:2F  S8phone  Infra  6     130 Mbit/s  27      ▂___  WPA2      
+        64:70:02:8F:D1:3A  Ehsan    Infra  5     54 Mbit/s   20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:19:01] Checking connection status...
+[2025-06-07 05:19:01] ✅ Already connected to a network.
+[2025-06-07 05:19:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID     MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy      Infra  1     65 Mbit/s   65      ▂▄▆_  WPA2     
+        06:D6:AA:D7:FF:2F  S8phone  Infra  6     130 Mbit/s  25      ▂___  WPA2     
+----------------------------------------------------
+[2025-06-07 05:20:01] Checking connection status...
+[2025-06-07 05:20:01] ✅ Already connected to a network.
+[2025-06-07 05:20:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID     MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy      Infra  1     65 Mbit/s   74      ▂▄▆_  WPA2      
+        06:D6:AA:D7:FF:2F  S8phone  Infra  6     130 Mbit/s  24      ▂___  WPA2      
+        64:70:02:8F:D1:3A  Ehsan    Infra  5     54 Mbit/s   20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:21:01] Checking connection status...
+[2025-06-07 05:21:01] ✅ Already connected to a network.
+[2025-06-07 05:21:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID     MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy      Infra  1     65 Mbit/s   63      ▂▄▆_  WPA2      
+        06:D6:AA:D7:FF:2F  S8phone  Infra  6     130 Mbit/s  27      ▂___  WPA2      
+        64:70:02:8F:D1:3A  Ehsan    Infra  5     54 Mbit/s   20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:22:01] Checking connection status...
+[2025-06-07 05:22:01] ✅ Already connect[2025-06-07 05:17:13] Checking connection status...
+[2025-06-07 05:17:13] ❌ Not connected. Attempting to connect to Esy...
+Error: NetworkManager is not running.
+[2025-06-07 05:17:13] ❌ Failed to connect to Esy.
+[2025-06-07 05:17:13] 📡 Available Wi-Fi networks:
+Error: NetworkManager is not running.
+----------------------------------------------------
+[2025-06-07 05:18:01] Checking connection status...
+[2025-06-07 05:18:01] ✅ Already connected to a network.
+[2025-06-07 05:18:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy           Infra  1     65 Mbit/s   63      ▂▄▆_  WPA2      
+        6C:AD:EF:06:0D:06  MobinNet0D06  Infra  5     130 Mbit/s  20      ▂___  WPA2      
+        64:70:02:8F:D1:3A  Ehsan         Infra  5     54 Mbit/s   20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:19:01] Checking connection status...
+[2025-06-07 05:19:01] ✅ Already connected to a network.
+[2025-06-07 05:19:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:20:01] Checking connection status...
+[2025-06-07 05:20:01] ✅ Already connected to a network.
+[2025-06-07 05:20:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  72      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:21:01] Checking connection status...
+[2025-06-07 05:21:01] ✅ Already connected to a network.
+[2025-06-07 05:21:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  74      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:22:01] Checking connection status...
+[2025-06-07 05:22:01] ✅ Already connected to a network.
+[2025-06-07 05:22:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  72      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:23:01] Checking connection status...
+[2025-06-07 05:23:01] ✅ Already connected to a network.
+[2025-06-07 05:23:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy           Infra  1     65 Mbit/s   72      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan         Infra  5     54 Mbit/s   17      ▂___  WPA1 WPA2 
+        6C:AD:EF:06:0D:06  MobinNet0D06  Infra  5     130 Mbit/s  0       ____  WPA2      
+----------------------------------------------------
+[2025-06-07 05:24:01] Checking connection status...
+[2025-06-07 05:24:01] ✅ Already connected to a network.
+[2025-06-07 05:24:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy           Infra  1     65 Mbit/s   74      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan         Infra  5     54 Mbit/s   24      ▂___  WPA1 WPA2 
+        6C:AD:EF:06:0D:06  MobinNet0D06  Infra  5     130 Mbit/s  0       ____  WPA2      
+----------------------------------------------------
+[2025-06-07 05:25:01] Checking connection status...
+[2025-06-07 05:25:01] ✅ Already connected to a network.
+[2025-06-07 05:25:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:26:01] Checking connection status...
+[2025-06-07 05:26:01] ✅ Already connected to a network.
+[2025-06-07 05:26:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:27:01] Checking connection status...
+[2025-06-07 05:27:01] ✅ Already connected to a network.
+[2025-06-07 05:27:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:28:01] Checking connection status...
+[2025-06-07 05:28:01] ✅ Already connected to a network.
+[2025-06-07 05:28:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:29:01] Checking connection status...
+[2025-06-07 05:29:01] ✅ Already connected to a network.
+[2025-06-07 05:29:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:30:01] Checking connection status...
+[2025-06-07 05:30:01] ✅ Already connected to a network.
+[2025-06-07 05:30:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:31:01] Checking connection status...
+[2025-06-07 05:31:01] ✅ Already connected to a network.
+[2025-06-07 05:31:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:32:01] Checking connection status...
+[2025-06-07 05:32:01] ✅ Already connected to a network.
+[2025-06-07 05:32:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:33:01] Checking connection status...
+[2025-06-07 05:33:01] ✅ Already connected to a network.
+[2025-06-07 05:33:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  55      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:34:01] Checking connection status...
+[2025-06-07 05:34:01] ✅ Already connected to a network.
+[2025-06-07 05:34:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  2       ____  WPA2      
+----------------------------------------------------
+[2025-06-07 05:35:01] Checking connection status...
+[2025-06-07 05:35:01] ✅ Already connected to a network.
+[2025-06-07 05:35:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  43      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:36:01] Checking connection status...
+[2025-06-07 05:36:01] ❌ Not connected. Attempting to connect to Esy...
+[2025-06-07 05:37:01] Checking connection status...
+[2025-06-07 05:37:01] ❌ Not connected. Attempting to connect to Esy...
+Error: Connection activation failed: (60) New connection activation was enqueued.
+[2025-06-07 05:36:01] ✅ Connected to Esy.
+[2025-06-07 05:36:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+        FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  24      ▂___  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2KDevice 'wlan0' successfully activated with '99c7b296-ffaf-4fa8-8d33-a0964242ae0f'.
+[2025-06-07 05:37:01] ✅ Connected to Esy.
+[2025-06-07 05:37:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  38      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:38:01] Checking connection status...
+[2025-06-07 05:38:01] ✅ Already connected to a network.
+[2025-06-07 05:38:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  44      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:39:01] Checking connection status...
+[2025-06-07 05:39:01] ✅ Already connected to a network.
+[2025-06-07 05:39:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  47      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:40:01] Checking connection status...
+[2025-06-07 05:40:01] ✅ Already connected to a network.
+[2025-06-07 05:40:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  47      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:41:01] Checking connection status...
+[2025-06-07 05:41:01] ✅ Already connected to a network.
+[2025-06-07 05:41:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  46      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:42:01] Checking connection status...
+[2025-06-07 05:42:01] ✅ Already connected to a network.
+[2025-06-07 05:42:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  45      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:43:01] Checking connection status...
+[2025-06-07 05:43:01] ✅ Already connected to a network.
+[2025-06-07 05:43:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  52      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:44:01] Checking connection status...
+[2025-06-07 05:44:01] ✅ Already connected to a network.
+[2025-06-07 05:44:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  25      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:45:01] Checking connection status...
+[2025-06-07 05:45:01] ✅ Already connected to a network.
+[2025-06-07 05:45:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  25      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:46:01] Checking connection status...
+[2025-06-07 05:46:01] ✅ Already connected to a network.
+[2025-06-07 05:46:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:47:01] Checking connection status...
+[2025-06-07 05:47:01] ✅ Already connected to a network.
+[2025-06-07 05:47:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:48:01] Checking connection status...
+[2025-06-07 05:48:01] ✅ Already connected to a network.
+[2025-06-07 05:48:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:49:01] Checking connection status...
+[2025-06-07 05:49:01] ✅ Already connected to a network.
+[2025-06-07 05:49:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:50:01] Checking connection status...
+[2025-06-07 05:50:01] ✅ Already connected to a network.
+[2025-06-07 05:50:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:51:01] Checking connection status...
+[2025-06-07 05:51:01] ✅ Already connected to a network.
+[2025-06-07 05:51:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  54      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:52:01] Checking connection status...
+[2025-06-07 05:52:01] ✅ Already connected to a network.
+[2025-06-07 05:52:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  57      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  14      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:53:01] Checking connection status...
+[2025-06-07 05:53:01] ✅ Already connected to a network.
+[2025-06-07 05:53:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  51      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:54:01] Checking connection status...
+[2025-06-07 05:54:01] ✅ Already connected to a network.
+[2025-06-07 05:54:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  40      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:55:01] Checking connection status...
+[2025-06-07 05:55:01] ✅ Already connected to a network.
+[2025-06-07 05:55:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  54      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:56:01] Checking connection status...
+[2025-06-07 05:56:01] ✅ Already connected to a network.
+[2025-06-07 05:56:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  51      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 05:57:01] Checking connection status...
+[2025-06-07 05:57:01] ✅ Already connected to a network.
+[2025-06-07 05:57:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy           Infra  1     65 Mbit/s   42      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan         Infra  5     54 Mbit/s   20      ▂___  WPA1 WPA2 
+        6C:AD:EF:06:0D:06  MobinNet0D06  Infra  5     130 Mbit/s  14      ▂___  WPA2      
+----------------------------------------------------
+[2025-06-07 05:58:01] Checking connection status...
+[2025-06-07 05:58:01] ✅ Already connected to a network.
+[2025-06-07 05:58:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy           Infra  1     65 Mbit/s   53      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan         Infra  5     54 Mbit/s   24      ▂___  WPA1 WPA2 
+        6C:AD:EF:06:0D:06  MobinNet0D06  Infra  5     130 Mbit/s  14      ▂___  WPA2      
+----------------------------------------------------
+[2025-06-07 05:59:01] Checking connection status...
+[2025-06-07 05:59:01] ✅ Already connected to a network.
+[2025-06-07 05:59:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy           Infra  1     65 Mbit/s   45      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan         Infra  5     54 Mbit/s   27      ▂___  WPA1 WPA2 
+        6C:AD:EF:06:0D:06  MobinNet0D06  Infra  5     130 Mbit/s  14      ▂___  WPA2      
+----------------------------------------------------
+[2025-06-07 06:00:01] Checking connection status...
+[2025-06-07 06:00:01] ✅ Already connected to a network.
+[2025-06-07 06:00:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy           Infra  1     65 Mbit/s   47      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan         Infra  5     54 Mbit/s   20      ▂___  WPA1 WPA2 
+        6C:AD:EF:06:0D:06  MobinNet0D06  Infra  5     130 Mbit/s  14      ▂___  WPA2      
+----------------------------------------------------
+[2025-06-07 06:01:01] Checking connection status...
+[2025-06-07 06:01:01] ✅ Already connected to a network.
+[2025-06-07 06:01:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  49      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:02:01] Checking connection status...
+[2025-06-07 06:02:01] ✅ Already connected to a network.
+[2025-06-07 06:02:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  49      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  25      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:03:01] Checking connection status...
+[2025-06-07 06:03:01] ✅ Already connected to a network.
+[2025-06-07 06:03:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  50      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:04:01] Checking connection status...
+[2025-06-07 06:04:01] ✅ Already connected to a network.
+[2025-06-07 06:04:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:05:01] Checking connection status...
+[2025-06-07 06:05:01] ✅ Already connected to a network.
+[2025-06-07 06:05:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  58      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:06:01] Checking connection status...
+[2025-06-07 06:06:01] ✅ Already connected to a network.
+[2025-06-07 06:06:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  58      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:07:01] Checking connection status...
+[2025-06-07 06:07:01] ✅ Already connected to a network.
+[2025-06-07 06:07:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  65      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:08:01] Checking connection status...
+[2025-06-07 06:08:01] ✅ Already connected to a network.
+[2025-06-07 06:08:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  60      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  19      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:09:01] Checking connection status...
+[2025-06-07 06:09:01] ✅ Already connected to a network.
+[2025-06-07 06:09:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  58      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:10:02] Checking connection status...
+[2025-06-07 06:10:02] ✅ Already connected to a network.
+[2025-06-07 06:10:02] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  58      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:11:01] Checking connection status...
+[2025-06-07 06:11:01] ✅ Already connected to a network.
+[2025-06-07 06:11:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  61      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:12:01] Checking connection status...
+[2025-06-07 06:12:01] ✅ Already connected to a network.
+[2025-06-07 06:12:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  58      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:13:01] Checking connection status...
+[2025-06-07 06:13:01] ✅ Already connected to a network.
+[2025-06-07 06:13:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  58      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  22      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:14:01] Checking connection status...
+[2025-06-07 06:14:01] ✅ Already connected to a network.
+[2025-06-07 06:14:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  44      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:15:01] Checking connection status...
+[2025-06-07 06:15:01] ✅ Already connected to a network.
+[2025-06-07 06:15:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  35      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:16:01] Checking connection status...
+[2025-06-07 06:16:01] ✅ Already connected to a network.
+[2025-06-07 06:16:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  43      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  25      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:17:01] Checking connection status...
+[2025-06-07 06:17:01] ✅ Already connected to a network.
+[2025-06-07 06:17:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  43      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:17:13] Checking connection status...
+[2025-06-07 06:17:13] ❌ Not connected. Attempting to connect to Esy...
+Error: NetworkManager is not running.
+[2025-06-07 06:17:13] ❌ Failed to connect to Esy.
+[2025-06-07 06:17:13] 📡 Available Wi-Fi networks:
+Error: NetworkManager is not running.
+----------------------------------------------------
+[2025-06-07 06:18:01] Checking connection status...
+[2025-06-07 06:18:01] ✅ Already connected to a network.
+[2025-06-07 06:18:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  30      ▂___  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:19:01] Checking connection status...
+[2025-06-07 06:19:01] ✅ Already connected to a network.
+[2025-06-07 06:19:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  40      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:20:01] Checking connection status...
+[2025-06-07 06:20:01] ✅ Already connected to a network.
+[2025-06-07 06:20:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy           Infra  1     65 Mbit/s   39      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan         Infra  5     54 Mbit/s   27      ▂___  WPA1 WPA2 
+        6C:AD:EF:06:0D:06  MobinNet0D06  Infra  5     130 Mbit/s  14      ▂___  WPA2      
+----------------------------------------------------
+[2025-06-07 06:21:01] Checking connection status...
+[2025-06-07 06:21:01] ✅ Already connected to a network.
+[2025-06-07 06:21:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy           Infra  1     65 Mbit/s   36      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan         Infra  5     54 Mbit/s   24      ▂___  WPA1 WPA2 
+        6C:AD:EF:06:0D:06  MobinNet0D06  Infra  5     130 Mbit/s  14      ▂___  WPA2      
+----------------------------------------------------
+[2025-06-07 06:22:01] Checking connection status...
+[2025-06-07 06:22:01] ❌ Not connected. Attempting to connect to Esy...
+[2KDevice 'wlan0' successfully activated with '99c7b296-ffaf-4fa8-8d33-a0964242ae0f'.
+[2025-06-07 06:22:01] ✅ Connected to Esy.
+[2025-06-07 06:22:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy           Infra  1     65 Mbit/s   44      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan         Infra  5     54 Mbit/s   24      ▂___  WPA1 WPA2 
+        6C:AD:EF:06:0D:06  MobinNet0D06  Infra  5     130 Mbit/s  17      ▂___  WPA2      
+----------------------------------------------------
+[2025-06-07 06:23:01] Checking connection status...
+[2025-06-07 06:23:01] ✅ Already connected to a network.
+[2025-06-07 06:23:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy           Infra  1     65 Mbit/s   59      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan         Infra  5     54 Mbit/s   30      ▂___  WPA1 WPA2 
+        6C:AD:EF:06:0D:06  MobinNet0D06  Infra  5     130 Mbit/s  17      ▂___  WPA2      
+----------------------------------------------------
+[2025-06-07 06:24:01] Checking connection status...
+[2025-06-07 06:24:01] ✅ Already connected to a network.
+[2025-06-07 06:24:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy           Infra  1     65 Mbit/s   59      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan         Infra  5     54 Mbit/s   30      ▂___  WPA1 WPA2 
+        6C:AD:EF:06:0D:06  MobinNet0D06  Infra  5     130 Mbit/s  17      ▂___  WPA2      
+----------------------------------------------------
+[2025-06-07 06:25:01] Checking connection status...
+[2025-06-07 06:25:01] ✅ Already connected to a network.
+[2025-06-07 06:25:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy           Infra  1     65 Mbit/s   59      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan         Infra  5     54 Mbit/s   27      ▂___  WPA1 WPA2 
+        6C:AD:EF:06:0D:06  MobinNet0D06  Infra  5     130 Mbit/s  17      ▂___  WPA2      
+----------------------------------------------------
+[2025-06-07 06:26:01] Checking connection status...
+[2025-06-07 06:26:01] ✅ Already connected to a network.
+[2025-06-07 06:26:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy           Infra  1     65 Mbit/s   59      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan         Infra  5     54 Mbit/s   27      ▂___  WPA1 WPA2 
+        6C:AD:EF:06:0D:06  MobinNet0D06  Infra  5     130 Mbit/s  17      ▂___  WPA2      
+----------------------------------------------------
+[2025-06-07 06:27:01] Checking connection status...
+[2025-06-07 06:27:01] ✅ Already connected to a network.
+[2025-06-07 06:27:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  61      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:28:01] Checking connection status...
+[2025-06-07 06:28:01] ✅ Already connected to a network.
+[2025-06-07 06:28:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  34      ▂▄__  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:29:01] Checking connection status...
+[2025-06-07 06:29:01] ✅ Already connected to a network.
+[2025-06-07 06:29:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  67      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:30:01] Checking connection status...
+[2025-06-07 06:30:01] ✅ Already connected to a network.
+[2025-06-07 06:30:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  61      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:31:01] Checking connection status...
+[2025-06-07 06:31:01] ✅ Already connected to a network.
+[2025-06-07 06:31:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  61      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:32:01] Checking connection status...
+[2025-06-07 06:32:01] ✅ Already connected to a network.
+[2025-06-07 06:32:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  60      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:17:14] Checking connection status...
+[2025-06-07 06:17:14] ❌ Not connected. Attempting to connect to Esy...
+Error: NetworkManager is not running.
+[2025-06-07 06:17:14] ❌ Failed to connect to Esy.
+[2025-06-07 06:17:14] 📡 Available Wi-Fi networks:
+Error: NetworkManager is not running.
+----------------------------------------------------
+[2025-06-07 06:18:01] Checking connection status...
+[2025-06-07 06:18:01] ✅ Already connected to a network.
+[2025-06-07 06:18:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  84      ▂▄▆█  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:19:01] Checking connection status...
+[2025-06-07 06:19:01] ✅ Already connected to a network.
+[2025-06-07 06:19:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:20:01] Checking connection status...
+[2025-06-07 06:20:01] ✅ Already connected to a network.
+[2025-06-07 06:20:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:21:01] Checking connection status...
+[2025-06-07 06:21:01] ✅ Already connected to a network.
+[2025-06-07 06:21:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:22:01] Checking connection status...
+[2025-06-07 06:22:01] ✅ Already connected to a network.
+[2025-06-07 06:22:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:23:01] Checking connection status...
+[2025-06-07 06:23:01] ✅ Already connected to a network.
+[2025-06-07 06:23:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:24:01] Checking connection status...
+[2025-06-07 06:24:01] ✅ Already connected to a network.
+[2025-06-07 06:24:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  82      ▂▄▆█  WPA2     
+----------------------------------------------------
+[2025-06-07 06:25:01] Checking connection status...
+[2025-06-07 06:25:01] ✅ Already connected to a network.
+[2025-06-07 06:25:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  50      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:26:01] Checking connection status...
+[2025-06-07 06:26:01] ✅ Already connected to a network.
+[2025-06-07 06:26:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  52      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:27:01] Checking connection status...
+[2025-06-07 06:27:01] ✅ Already connected to a network.
+[2025-06-07 06:27:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  40      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:17:15] Checking connection status...
+[2025-06-07 06:17:15] ❌ Not connected. Attempting to connect to Esy...
+Error: NetworkManager is not running.
+[2025-06-07 06:17:15] ❌ Failed to connect to Esy.
+[2025-06-07 06:17:15] 📡 Available Wi-Fi networks:
+Error: NetworkManager is not running.
+----------------------------------------------------
+[2025-06-07 06:18:01] Checking connection status...
+[2025-06-07 06:18:01] ✅ Already connected to a network.
+[2025-06-07 06:18:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  72      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:19:01] Checking connection status...
+[2025-06-07 06:19:01] ✅ Already connected to a network.
+[2025-06-07 06:19:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:20:01] Checking connection status...
+[2025-06-07 06:20:01] ✅ Already connected to a network.
+[2025-06-07 06:20:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:21:01] Checking connection status...
+[2025-06-07 06:21:01] ✅ Already connected to a network.
+[2025-06-07 06:21:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:22:01] Checking connection status...
+[2025-06-07 06:22:01] ✅ Already connected to a network.
+[2025-06-07 06:22:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:23:01] Checking connection status...
+[2025-06-07 06:23:01] ✅ Already connected to a network.
+[2025-06-07 06:23:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:24:01] Checking connection status...
+[2025-06-07 06:24:01] ✅ Already connected to a network.
+[2025-06-07 06:24:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:25:01] Checking connection status...
+[2025-06-07 06:25:01] ✅ Already connected to a network.
+[2025-06-07 06:25:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:26:01] Checking connection status...
+[2025-06-07 06:26:01] ✅ Already connected to a network.
+[2025-06-07 06:26:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  17      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:27:01] Checking connection status...
+[2025-06-07 06:27:01] ✅ Already connected to a network.
+[2025-06-07 06:27:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  5     54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:17:13] Checking connection status...
+[2025-06-07 06:17:13] ❌ Not connected. Attempting to connect to Esy...
+Error: NetworkManager is not running.
+[2025-06-07 06:17:13] ❌ Failed to connect to Esy.
+[2025-06-07 06:17:13] 📡 Available Wi-Fi networks:
+Error: NetworkManager is not running.
+----------------------------------------------------
+[2025-06-07 06:18:01] Checking connection status...
+[2025-06-07 06:18:01] ✅ Already connected to a network.
+[2025-06-07 06:18:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:19:01] Checking connection status...
+[2025-06-07 06:19:01] ✅ Already connected to a network.
+[2025-06-07 06:19:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:20:01] Checking connection status...
+[2025-06-07 06:20:01] ✅ Already connected to a network.
+[2025-06-07 06:20:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  72      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:21:01] Checking connection status...
+[2025-06-07 06:21:01] ✅ Already connected to a network.
+[2025-06-07 06:21:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:22:01] Checking connection status...
+[2025-06-07 06:22:01] ✅ Already connected to a network.
+[2025-06-07 06:22:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  72      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:23:01] Checking connection status...
+[2025-06-07 06:23:01] ✅ Already connected to a network.
+[2025-06-07 06:23:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:24:01] Checking connection status...
+[2025-06-07 06:24:01] ✅ Already connected to a network.
+[2025-06-07 06:24:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  45      ▂▄__  WPA2     
+----------------------------------------------------
+[2025-06-07 06:25:01] Checking connection status...
+[2025-06-07 06:25:01] ✅ Already connected to a network.
+[2025-06-07 06:25:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:26:01] Checking connection status...
+[2025-06-07 06:26:01] ✅ Already connected to a network.
+[2025-06-07 06:26:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  57      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:27:01] Checking connection status...
+[2025-06-07 06:27:01] ✅ Already connected to a network.
+[2025-06-07 06:27:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  65      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:28:01] Checking connection status...
+[2025-06-07 06:28:01] ✅ Already connected to a network.
+[2025-06-07 06:28:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  67      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:29:01] Checking connection status...
+[2025-06-07 06:29:01] ✅ Already connected to a network.
+[2025-06-07 06:29:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  65      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:30:01] Checking connection status...
+[2025-06-07 06:30:01] ✅ Already connected to a network.
+[2025-06-07 06:30:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:31:01] Checking connection status...
+[2025-06-07 06:31:01] ✅ Already connected to a network.
+[2025-06-07 06:31:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:32:01] Checking connection status...
+[2025-06-07 06:32:01] ✅ Already connected to a network.
+[2025-06-07 06:32:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:33:01] Checking connection status...
+[2025-06-07 06:33:01] ✅ Already connected to a network.
+[2025-06-07 06:33:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:34:01] Checking connection status...
+[2025-06-07 06:34:01] ✅ Already connected to a network.
+[2025-06-07 06:34:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:35:01] Checking connection status...
+[2025-06-07 06:35:01] ✅ Already connected to a network.
+[2025-06-07 06:35:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:36:01] Checking connection status...
+[2025-06-07 06:36:01] ✅ Already connected to a network.
+[2025-06-07 06:36:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  67      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:37:01] Checking connection status...
+[2025-06-07 06:37:01] ✅ Already connected to a network.
+[2025-06-07 06:37:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  65      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:38:01] Checking connection status...
+[2025-06-07 06:38:01] ✅ Already connected to a network.
+[2025-06-07 06:38:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:39:01] Checking connection status...
+[2025-06-07 06:39:01] ✅ Already connected to a network.
+[2025-06-07 06:39:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:40:01] Checking connection status...
+[2025-06-07 06:40:01] ✅ Already connected to a network.
+[2025-06-07 06:40:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:41:01] Checking connection status...
+[2025-06-07 06:41:01] ✅ Already connected to a network.
+[2025-06-07 06:41:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:42:01] Checking connection status...
+[2025-06-07 06:42:01] ✅ Already connected to a network.
+[2025-06-07 06:42:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  65      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:43:01] Checking connection status...
+[2025-06-07 06:43:01] ✅ Already connected to a network.
+[2025-06-07 06:43:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:44:01] Checking connection status...
+[2025-06-07 06:44:01] ✅ Already connected to a network.
+[2025-06-07 06:44:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:45:01] Checking connection status...
+[2025-06-07 06:45:01] ✅ Already connected to a network.
+[2025-06-07 06:45:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:46:01] Checking connection status...
+[2025-06-07 06:46:01] ✅ Already connected to a network.
+[2025-06-07 06:46:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  65      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:47:01] Checking connection status...
+[2025-06-07 06:47:01] ✅ Already connected to a network.
+[2025-06-07 06:47:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  30      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:48:01] Checking connection status...
+[2025-06-07 06:48:01] ✅ Already connected to a network.
+[2025-06-07 06:48:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  30      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:49:01] Checking connection status...
+[2025-06-07 06:49:01] ✅ Already connected to a network.
+[2025-06-07 06:49:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  64      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:50:01] Checking connection status...
+[2025-06-07 06:50:01] ✅ Already connected to a network.
+[2025-06-07 06:50:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  65      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:51:01] Checking connection status...
+[2025-06-07 06:51:01] ✅ Already connected to a network.
+[2025-06-07 06:51:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  67      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:52:01] Checking connection status...
+[2025-06-07 06:52:01] ✅ Already connected to a network.
+[2025-06-07 06:52:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  65      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:53:01] Checking connection status...
+[2025-06-07 06:53:01] ✅ Already connected to a network.
+[2025-06-07 06:53:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:54:01] Checking connection status...
+[2025-06-07 06:54:01] ✅ Already connected to a network.
+[2025-06-07 06:54:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:55:01] Checking connection status...
+[2025-06-07 06:55:01] ✅ Already connected to a network.
+[2025-06-07 06:55:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:56:01] Checking connection status...
+[2025-06-07 06:56:01] ✅ Already connected to a network.
+[2025-06-07 06:56:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:57:01] Checking connection status...
+[2025-06-07 06:57:01] ✅ Already connected to a network.
+[2025-06-07 06:57:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:17:14] Checking connection status...
+[2025-06-07 06:17:14] ❌ Not connected. Attempting to connect to Esy...
+Error: NetworkManager is not running.
+[2025-06-07 06:17:14] ❌ Failed to connect to Esy.
+[2025-06-07 06:17:14] 📡 Available Wi-Fi networks:
+Error: NetworkManager is not running.
+----------------------------------------------------
+[2025-06-07 06:18:01] Checking connection status...
+[2025-06-07 06:18:01] ✅ Already connected to a network.
+[2025-06-07 06:18:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  72      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:19:01] Checking connection status...
+[2025-06-07 06:19:01] ✅ Already connected to a network.
+[2025-06-07 06:19:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:20:01] Checking connection status...
+[2025-06-07 06:20:01] ✅ Already connected to a network.
+[2025-06-07 06:20:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:21:01] Checking connection status...
+[2025-06-07 06:21:01] ✅ Already connected to a network.
+[2025-06-07 06:21:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:22:01] Checking connection status...
+[2025-06-07 06:22:01] ✅ Already connected to a network.
+[2025-06-07 06:22:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:23:01] Checking connection status...
+[2025-06-07 06:23:01] ✅ Already connected to a network.
+[2025-06-07 06:23:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  72      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-07-01 16:20:25] Checking connection status...
+[2025-07-01 16:20:25] ✅ Already connected to a network.
+[2025-07-01 16:20:25] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-07-01 16:21:01] Checking connection status...
+[2025-07-01 16:21:01] ✅ Already connected to a network.
+[2025-07-01 16:21:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  30      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-07-01 16:22:01] Checking connection status...
+[2025-07-01 16:22:01] ✅ Already connected to a network.
+[2025-07-01 16:22:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  30      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-07-01 16:23:01] Checking connection status...
+[2025-07-01 16:23:01] ✅ Already connected to a network.
+[2025-07-01 16:23:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-07-01 16:24:01] Checking connection status...
+[2025-07-01 16:24:01] ✅ Already connected to a network.
+[2025-07-01 16:24:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  72      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-07-01 16:25:01] Checking connection status...
+[2025-07-01 16:25:01] ✅ Already connected to a network.
+[2025-07-01 16:25:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-07-01 16:26:01] Checking connection status...
+[2025-07-01 16:26:01] ✅ Already connected to a network.
+[2025-07-01 16:26:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-07-01 16:27:01] Checking connection status...
+[2025-07-01 16:27:01] ✅ Already connected to a network.
+[2025-07-01 16:27:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-07-01 16:28:01] Checking connection status...
+[2025-07-01 16:28:01] ✅ Already connected to a network.
+[2025-07-01 16:28:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:17:13] Checking connection status...
+[2025-06-07 06:17:13] ❌ Not connected. Attempting to connect to Esy...
+Error: NetworkManager is not running.
+[2025-06-07 06:17:13] ❌ Failed to connect to Esy.
+[2025-06-07 06:17:13] 📡 Available Wi-Fi networks:
+Error: NetworkManager is not running.
+----------------------------------------------------
+[2025-06-07 06:18:01] Checking connection status...
+[2025-06-07 06:18:01] ✅ Already connected to a network.
+[2025-06-07 06:18:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  72      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:19:01] Checking connection status...
+[2025-06-07 06:19:01] ✅ Already connected to a network.
+[2025-06-07 06:19:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:20:01] Checking connection status...
+[2025-06-07 06:20:01] ✅ Already connected to a network.
+[2025-06-07 06:20:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:21:01] Checking connection status...
+[2025-06-07 06:21:01] ✅ Already connected to a network.
+[2025-06-07 06:21:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:22:01] Checking connection status...
+[2025-06-07 06:22:01] ✅ Already connected to a network.
+[2025-06-07 06:22:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:23:01] Checking connection status...
+[2025-06-07 06:23:01] ✅ Already connected to a network.
+[2025-06-07 06:23:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:24:01] Checking connection status...
+[2025-06-07 06:24:01] ✅ Already connected to a network.
+[2025-06-07 06:24:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:25:01] Checking connection status...
+[2025-06-07 06:25:01] ✅ Already connected to a network.
+[2025-06-07 06:25:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:26:01] Checking connection status...
+[2025-06-07 06:26:01] ✅ Already connected to a network.
+[2025-06-07 06:26:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  70      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  30      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:27:01] Checking connection status...
+[2025-06-07 06:27:01] ✅ Already connected to a network.
+[2025-06-07 06:27:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  30      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:28:01] Checking connection status...
+[2025-06-07 06:28:01] ✅ Already connected to a network.
+[2025-06-07 06:28:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:29:01] Checking connection status...
+[2025-06-07 06:29:01] ✅ Already connected to a network.
+[2025-06-07 06:29:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  62      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:30:01] Checking connection status...
+[2025-06-07 06:30:01] ✅ Already connected to a network.
+[2025-06-07 06:30:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  72      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:31:01] Checking connection status...
+[2025-06-07 06:31:01] ✅ Already connected to a network.
+[2025-06-07 06:31:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  63      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:32:01] Checking connection status...
+[2025-06-07 06:32:01] ✅ Already connected to a network.
+[2025-06-07 06:32:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  72      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:33:01] Checking connection status...
+[2025-06-07 06:33:01] ✅ Already connected to a network.
+[2025-06-07 06:33:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  49      ▂▄__  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:34:01] Checking connection status...
+[2025-06-07 06:34:01] ✅ Already connected to a network.
+[2025-06-07 06:34:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  2       ____  WPA2      
+----------------------------------------------------
+[2025-06-07 06:35:01] Checking connection status...
+[2025-06-07 06:35:01] ❌ Not connected. Attempting to connect to Esy...
+Error: No network with SSID 'Esy' found.
+[2025-06-07 06:35:01] ❌ Failed to connect to Esy.
+[2025-06-07 06:35:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+----------------------------------------------------
+[2025-06-07 06:36:01] Checking connection status...
+[2025-06-07 06:36:01] ❌ Not connected. Attempting to connect to Esy...
+Error: No network with SSID 'Esy' found.
+[2025-06-07 06:36:01] ❌ Failed to connect to Esy.
+[2025-06-07 06:36:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+----------------------------------------------------
+[2025-06-07 06:37:01] Checking connection status...
+[2025-06-07 06:37:01] ❌ Not connected. Attempting to connect to Esy...
+Error: No network with SSID 'Esy' found.
+[2025-06-07 06:37:01] ❌ Failed to connect to Esy.
+[2025-06-07 06:37:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+----------------------------------------------------
+[2025-06-07 06:38:01] Checking connection status...
+[2025-06-07 06:38:01] ❌ Not connected. Attempting to connect to Esy...
+Error: No network with SSID 'Esy' found.
+[2025-06-07 06:38:01] ❌ Failed to connect to Esy.
+[2025-06-07 06:38:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+----------------------------------------------------
+[2025-06-07 06:39:01] Checking connection status...
+[2025-06-07 06:39:01] ❌ Not connected. Attempting to connect to Esy...
+Error: No network with SSID 'Esy' found.
+[2025-06-07 06:39:01] ❌ Failed to connect to Esy.
+[2025-06-07 06:39:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+----------------------------------------------------
+[2025-06-07 06:40:01] Checking connection status...
+[2025-06-07 06:40:01] ❌ Not connected. Attempting to connect to Esy...
+Error: No network with SSID 'Esy' found.
+[2025-06-07 06:40:01] ❌ Failed to connect to Esy.
+[2025-06-07 06:40:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+----------------------------------------------------
+[2025-06-07 06:41:01] Checking connection status...
+[2025-06-07 06:41:01] ❌ Not connected. Attempting to connect to Esy...
+Error: No network with SSID 'Esy' found.
+[2025-06-07 06:41:01] ❌ Failed to connect to Esy.
+[2025-06-07 06:41:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+----------------------------------------------------
+[2025-06-07 06:42:01] Checking connection status...
+[2025-06-07 06:42:01] ❌ Not connected. Attempting to connect to Esy...
+Error: No network with SSID 'Esy' found.
+[2025-06-07 06:42:01] ❌ Failed to connect to Esy.
+[2025-06-07 06:42:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+----------------------------------------------------
+[2025-06-07 06:43:01] Checking connection status...
+[2025-06-07 06:43:01] ❌ Not connected. Attempting to connect to Esy...
+Error: No network with SSID 'Esy' found.
+[2025-06-07 06:43:01] ❌ Failed to connect to Esy.
+[2025-06-07 06:43:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+----------------------------------------------------
+[2025-06-07 06:44:01] Checking connection status...
+[2025-06-07 06:44:01] ✅ Already connected to a network.
+[2025-06-07 06:44:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  67      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:45:01] Checking connection status...
+[2025-06-07 06:45:01] ✅ Already connected to a network.
+[2025-06-07 06:45:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  67      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:46:01] Checking connection status...
+[2025-06-07 06:46:01] ✅ Already connected to a network.
+[2025-06-07 06:46:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID  MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       FA:55:BE:7E:75:81  Esy   Infra  1     65 Mbit/s  65      ▂▄▆_  WPA2     
+----------------------------------------------------
+[2025-06-07 06:47:01] Checking connection status...
+[2025-06-07 06:47:01] ✅ Already connected to a network.
+[2025-06-07 06:47:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  65      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:48:01] Checking connection status...
+[2025-06-07 06:48:01] ✅ Already connected to a network.
+[2025-06-07 06:48:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:49:01] Checking connection status...
+[2025-06-07 06:49:01] ✅ Already connected to a network.
+[2025-06-07 06:49:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:50:01] Checking connection status...
+[2025-06-07 06:50:01] ✅ Already connected to a network.
+[2025-06-07 06:50:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  20      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:51:01] Checking connection status...
+[2025-06-07 06:51:01] ✅ Already connected to a network.
+[2025-06-07 06:51:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  30      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:52:01] Checking connection status...
+[2025-06-07 06:52:01] ✅ Already connected to a network.
+[2025-06-07 06:52:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  30      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:53:01] Checking connection status...
+[2025-06-07 06:53:01] ✅ Already connected to a network.
+[2025-06-07 06:53:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  64      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:54:01] Checking connection status...
+[2025-06-07 06:54:01] ✅ Already connected to a network.
+[2025-06-07 06:54:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  65      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:55:01] Checking connection status...
+[2025-06-07 06:55:01] ✅ Already connected to a network.
+[2025-06-07 06:55:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:56:01] Checking connection status...
+[2025-06-07 06:56:01] ✅ Already connected to a network.
+[2025-06-07 06:56:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  64      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:57:01] Checking connection status...
+[2025-06-07 06:57:01] ✅ Already connected to a network.
+[2025-06-07 06:57:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  65      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:58:01] Checking connection status...
+[2025-06-07 06:58:01] ✅ Already connected to a network.
+[2025-06-07 06:58:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  59      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 06:59:01] Checking connection status...
+[2025-06-07 06:59:01] ✅ Already connected to a network.
+[2025-06-07 06:59:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  64      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  24      ▂___  WPA1 WPA2 
+----------------------------------------------------
+[2025-06-07 07:00:01] Checking connection status...
+[2025-06-07 07:00:01] ✅ Already connected to a network.
+[2025-06-07 07:00:01] 📡 Available Wi-Fi networks:
+IN-USE  BSSID              SSID   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*       FA:55:BE:7E:75:81  Esy    Infra  1     65 Mbit/s  65      ▂▄▆_  WPA2      
+        64:70:02:8F:D1:3A  Ehsan  Infra  10    54 Mbit/s  27      ▂___  WPA1 WPA2 
+----------------------------------------------------

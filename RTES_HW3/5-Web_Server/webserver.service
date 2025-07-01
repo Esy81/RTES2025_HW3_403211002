@@ -1,0 +1,17 @@
+[Unit]
+Description=Run my script when WiFi is connected
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+ExecStart=/home/esy/http.sh
+WorkingDirectory=/home/esy
+Restart=always
+RestartSec=5
+User=root
+StandardOutput=journal
+StandardError=journal
+Environment=PATH=/usr/bin:/usr/local/bin
+
+[Install]
+WantedBy=network-online.target
